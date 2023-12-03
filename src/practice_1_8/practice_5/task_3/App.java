@@ -8,7 +8,7 @@ public class App extends JFrame {
         this.setTitle("Image");
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
-        //"D:/МИРЭА/Java Projects/Learning/files/example.jpg"
+        //"files/example.jpg"
         ImageIcon image = new ImageIcon(filename);
         this.setSize(image.getIconWidth(), image.getIconHeight() + 50);
         this.setIconImage(image.getImage());

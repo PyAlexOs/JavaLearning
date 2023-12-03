@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f97b72b-b12b-45fe-8cc3-0b7e95e36a15" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.calc.git.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_17/Task_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/DONE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/example.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/example.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_1/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_1/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_2/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_2/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_2/Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_3/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_3/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_9_16/practice_16/task_3/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_17/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_17/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_17/StudentModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_17/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_17/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_18/ExceptilonFloatDivZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_18/ExceptilonIntDivZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_18/ExceptionExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_18/ExceptionWhileInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_19/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_19/invalidIndividualTaxNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_20/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.calc.git.png" beforeDir="false" afterPath="$PROJECT_DIR$/img.git/img.calc.git.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.password.git.png" beforeDir="false" afterPath="$PROJECT_DIR$/img.git/img.password.git.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_17_24/practice_17/Task_17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_1_8/practice_5/task_3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_1_8/practice_5/task_3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice_1_8/practice_5/task_4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_1_8/practice_5/task_4/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,21 +66,30 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\МИРЭА\Java Projects\Learning\src\practice_17_24" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MIREA\JavaProjects\Learning\img.git" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.practice_9_16.practice_16.task_3.Task_3">
-    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_9_16.practice_15.task_1.Task_1" />
+  <component name="RunManager" selected="Application.Generic">
+    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_17_24.practice_18.ExceptionExamples" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_9_16.practice_15.task_1.*" />
+          <option name="PATTERN" value="practice_17_24.practice_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_9_16.practice_15.task_4.Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_9_16.practice_15.task_4.Task_4" />
+    <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_17_24.practice_20.Generic" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_9_16.practice_15.task_4.*" />
+          <option name="PATTERN" value="practice_17_24.practice_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_9_16.practice_16.task_1.Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_9_16.practice_16.task_1.Task_1" />
+    <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_17_24.practice_19.Shop" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_9_16.practice_16.task_1.*" />
+          <option name="PATTERN" value="practice_17_24.practice_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,25 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_9_16.practice_16.task_2.Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_9_16.practice_16.task_2.Task_2" />
+    <configuration name="practice_17_24.practice_17.Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_17_24.practice_17.Task_1" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_9_16.practice_16.task_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practice_9_16.practice_16.task_3.Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_9_16.practice_16.task_3.Task_3" />
-      <module name="Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice_9_16.practice_16.task_3.*" />
+          <option name="PATTERN" value="practice_17_24.practice_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practice_9_16.practice_16.task_3.Task_3" />
-        <item itemvalue="Application.practice_9_16.practice_16.task_2.Task_2" />
-        <item itemvalue="Application.practice_9_16.practice_16.task_1.Task_1" />
-        <item itemvalue="Application.Task_1" />
-        <item itemvalue="Application.practice_9_16.practice_15.task_4.Task_4" />
+        <item itemvalue="Application.Generic" />
+        <item itemvalue="Application.Shop" />
+        <item itemvalue="Application.ExceptionExamples" />
+        <item itemvalue="Application.Exception1" />
+        <item itemvalue="Application.practice_17_24.practice_17.Task_1" />
       </list>
     </recent_temporary>
   </component>

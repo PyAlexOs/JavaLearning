@@ -11,10 +11,10 @@ public class App implements Runnable {
     App(){
         current = 0;
         frames = new ImageIcon[] {
-                new ImageIcon("D:/МИРЭА/Java Projects/Learning/files/morning.gif"),
-                new ImageIcon("D:/МИРЭА/Java Projects/Learning/files/afternoon.gif"),
-                new ImageIcon("D:/МИРЭА/Java Projects/Learning/files/evening.gif"),
-                new ImageIcon("D:/МИРЭА/Java Projects/Learning/files/night.gif")
+                new ImageIcon("files/morning.gif"),
+                new ImageIcon("files/afternoon.gif"),
+                new ImageIcon("files/evening.gif"),
+                new ImageIcon("files/night.gif")
         };
         display = new JLabel();
 

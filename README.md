@@ -3,34 +3,34 @@ There are practices dedicated to learning java programming language.
 
 ---
 ## Table of contents
-- [x] [practice_1](#practice_1 "Syntax and basic control constructions of the Java language.")
-- [x] [practice_2](#practice_2 "Object-oriented programming in Java language.")
-- [x] [practice_3](#practice_3 "Math and Random classes. Shell Classes in the Java language.")
-- [x] [practice_4](#practice_4 "Enumerations and their use in Java.")
-- [x] [practice_4_1](#practice_4_1 "Inheritance in Java. Abstract classes.")
-- [x] [practice_5](#practice_5 "Creating programs with a GUI in Java.")
-- [x] [practice_6](#practice_6 "Interfaces in Java language.")
-- [x] [practice_7](#practice_7 "Implementation of interfaces in Java language.")
-- [x] [practice_8](#practice_8 "Recursion programming in Java.")
-- [x] [practice_9](#practice_9 "Polymorphism in the implementation of sorting and search algorithms.")
+- [x] [practice_1](#practice_1 "Syntax and basic control constructions of the Java language")
+- [x] [practice_2](#practice_2 "Object-oriented programming in Java language")
+- [x] [practice_3](#practice_3 "Math and Random classes. Shell Classes in the Java language")
+- [x] [practice_4](#practice_4 "Enumerations and their use in Java")
+- [x] [practice_4_1](#practice_4_1 "Inheritance in Java. Abstract classes")
+- [x] [practice_5](#practice_5 "Creating programs with a GUI in Java")
+- [x] [practice_6](#practice_6 "Interfaces in Java language")
+- [x] [practice_7](#practice_7 "Implementation of interfaces in Java language")
+- [x] [practice_8](#practice_8 "Recursion programming in Java")
+- [x] [practice_9](#practice_9 "Polymorphism in the implementation of sorting and search algorithms")
 - [x] [practice_10](#practice_10 "The same tasks as in practice 9")
-- [x] [practice_11](#practice_11 "Working with date and time in Java.")
-- [x] [practice_12](#practice_12 "The same tasks as in practice 5.")
-- [x] [practice_13](#practice_13 "String processing in Java.")
-- [x] [practice_14](#practice_14 "Regular expressions in Java.")
-- [x] [practice_15](#practice_15 "Nested and internal classes. Event handling in Java with a GUI.")
-- [x] [practice_16](#practice_16 "Processing mouse and keyboard events in programs with a GUI in java.")
-- [x] [practice_17](#practice_17 "seventeenth practice")
-- [ ] [practice_18](#practice_18 "eighteenth practice")
-- [ ] [practice_19](#practice_19 "nineteenth practice")
-- [ ] [practice_20](#practice_20 "twentieth practice")
-- [ ] [practice_21](#practice_21 "twenty-first practice")
-- [ ] [practice_22](#practice_22 "twenty-second practice")
-- [ ] [practice_23](#practice_23 "twenty-third practice")
-- [ ] [practice_24](#practice_24 "twenty-fourth practice")
+- [x] [practice_11](#practice_11 "Working with date and time in Java")
+- [x] [practice_12](#practice_12 "The same tasks as in practice 5")
+- [x] [practice_13](#practice_13 "String processing in Java")
+- [x] [practice_14](#practice_14 "Regular expressions in Java")
+- [x] [practice_15](#practice_15 "Nested and internal classes. Event handling in Java with a GUI")
+- [x] [practice_16](#practice_16 "Processing mouse and keyboard events in programs with a GUI in java")
+- [x] [practice_17](#practice_17 "Development using the MVC pattern in Java")
+- [x] [practice_18](#practice_18 "Exceptions in Java")
+- [x] [practice_19](#practice_19 "Custom exceptions in Java")
+- [x] [practice_20](#practice_20 "Generics in Java")
+- [ ] [practice_21](#practice_21 "Erasing types in Java")
+- [ ] [practice_22](#practice_22 "Abstract data types: stack")
+- [ ] [practice_23](#practice_23 "Abstract data types: queue")
+- [ ] [practice_24](#practice_24 "Design patterns. Generating patterns: abstract factory, factory method")
 ---
 ## practice_1
->**Syntax and basic control constructions of the Java language.**
+>**Syntax and basic control constructions of the Java language**
 
 - **[task_1](src/practice_1_8/practice_1/Task_3.java)**
 > Написать программу, в результате которой массив чисел создается 
@@ -61,7 +61,7 @@ There are practices dedicated to learning java programming language.
 
 ---
 ## practice_2
->**Object-oriented programming in Java language.**
+>**Object-oriented programming in Java language**
 
 - **[task_1](src/practice_1_8/practice_2/task_1)**
 > Необходимо написать программу, которая состоит из двух классов Author и
@@ -139,7 +139,7 @@ There are practices dedicated to learning java programming language.
 ---
 
 ## practice_3
->**Math and Random classes. Shell Classes in the Java language.**
+>**Math and Random classes. Shell Classes in the Java language**
 
 - **[task_1](src/practice_1_8/practice_3/Task_1.java)**
 > Создать массив вещественных чисел случайным образом, вывести его
@@ -184,7 +184,7 @@ There are practices dedicated to learning java programming language.
 ---
 
 ## practice_4
->**Enumerations and their use in Java.**
+>**Enumerations and their use in Java**
 
 - **[task_1](src/practice_1_8/practice_4/Task_1.java)**
 > Создать перечисление, содержащее названия времен года.
@@ -229,7 +229,7 @@ There are practices dedicated to learning java programming language.
 ---
 
 ## practice_4_1
->**Inheritance in Java. Abstract classes.**
+>**Inheritance in Java. Abstract classes**
 
 - **[task_1](src/practice_1_8/practice_4_1/task_1)**
 > Необходимо реализовать простейший класс Shape (Фигура).
@@ -283,7 +283,7 @@ There are practices dedicated to learning java programming language.
 ---
 
 ## practice_5
->**Creating programs with a GUI in Java.**
+>**Creating programs with a GUI in Java**
 
 - **[task_1](src/practice_1_8/practice_5/task_1)**
 > Напишите интерактивную программу с использованием GUI, которая 
@@ -319,7 +319,7 @@ There are practices dedicated to learning java programming language.
 ---
 
 ## practice_6
->**Interfaces in Java language.**
+>**Interfaces in Java language**
 
 - **[task_1](src/practice_1_8/practice_6/task_1)**
 > Напишите два класса MovablePoint и MovableCircle, которые 
@@ -339,7 +339,7 @@ There are practices dedicated to learning java programming language.
 ---
 
 ## practice_7
->**Implementation of interfaces in Java language.**
+>**Implementation of interfaces in Java language**
 
 - **[task_1](src/practice_1_8/practice_7/task_1)**
 > Разработайте интерфейс MathCalculable, который содержит 
@@ -365,7 +365,7 @@ MathCalculable mс2 = new MathCalculable (); //ошибка - запрещено
 ---
 
 ## practice_8
->**Recursion programming in Java.**
+>**Recursion programming in Java**
 
 - **[task_1](src/practice_1_8/practice_8/Task_15.java)**
 > Дано натуральное число N. Выведите все его цифры по одной, в обратном 
@@ -403,7 +403,7 @@ MathCalculable mс2 = new MathCalculable (); //ошибка - запрещено
 ---
 
 ## practice_9
->**Polymorphism in the implementation of sorting and search algorithms.**
+>**Polymorphism in the implementation of sorting and search algorithms**
 
 - **[task_1](src/practice_9_16/practice_9/task_1)**
 > Написать тестовый класс, который создает массив класса Student и
@@ -423,12 +423,12 @@ MathCalculable mс2 = new MathCalculable (); //ошибка - запрещено
 ---
 
 ## practice_10
->**The same tasks as in practice 9.**
+>**The same tasks as in practice 9**
 
 ---
 
 ## practice_11
->**Working with date and time in Java.**
+>**Working with date and time in Java**
 
 - **[task_1](src/practice_9_16/practice_11/Task_1.java)**
 > Написать программу, выводящую фамилию разработчика, дату и время 
@@ -455,12 +455,12 @@ MathCalculable mс2 = new MathCalculable (); //ошибка - запрещено
 ---
 
 ## practice_12
->**The same tasks as in practice 5.**
+>**The same tasks as in practice 5**
 
 ---
 
 ## practice_13
->**String processing in Java.**
+>**String processing in Java**
 
 - **[task_1](src/practice_9_16/practice_13/task_1)**
 > Разработать класс Person, в котором имеется функция, 
@@ -489,7 +489,7 @@ MathCalculable mс2 = new MathCalculable (); //ошибка - запрещено
 ---
 
 ## practice_14
->**Regular expressions in Java.**
+>**Regular expressions in Java**
 
 - **[task_1](src/practice_9_16/practice_14/Task_1.java)**
 > Дан текст со списками цен. Извлечь из него цены в USD, RUВ, EU.
@@ -526,7 +526,7 @@ MathCalculable mс2 = new MathCalculable (); //ошибка - запрещено
 ---
 
 ## practice_15
->**Nested and internal classes. Event handling in Java with a GUI.**
+>**Nested and internal classes. Event handling in Java with a GUI**
 
 - **[task_1](src/practice_9_16/practice_15/task_1)**
 > Напишите программу калькулятор. Реализуйте сложение вычитание, деление 
@@ -552,12 +552,12 @@ GridLayout, JButton, JFrame, JMenu, JMenuBar, JMenuItem, JPanel, JTextArea.
 > Разработайте программу-калькулятор вида как представлено на 
 > рисунке ниже.\
 > 
-> ![Окно программы калькулятор](img.calc.git.png)
+> ![Окно программы калькулятор](img.git/img.calc.git.png)
 
 ---
 
 ## practice_16
->**Processing mouse and keyboard events in programs with a GUI in java.**
+>**Processing mouse and keyboard events in programs with a GUI in java**
 
 - **[task_1](src/practice_9_16/practice_16/task_1)**
 > Реализуйте игру-угадайку, которая имеет одно текстовое поле и 
@@ -596,28 +596,52 @@ GridLayout, JButton, JFrame, JMenu, JMenuBar, JMenuItem, JPanel, JTextArea.
 > Layout менеджеров компоновки. Окно программы должно иметь вид
 > как на рисунке ниже.
 > 
-> ![Окно программы Проверка пароля](img.password.git.png)
+> ![Окно программы Проверка пароля](img.git/img.password.git.png)
 
 ---
 
 ## practice_17
+>**Development using the MVC pattern in Java**
 
+- **[MVC_GUI](src/practice_17_24/practice_17)**
+> Напишите программу с использованием паттерна MVC (model-view-controller),
+> используйте GUI. В программе реализована возможность добавления, удаления 
+> и поиска студентов в списке.
 
 ---
 
 ## practice_18
+>**Exceptions in Java**
+
+- **[exception_examples](src/practice_17_24/practice_18)**
+> Примеры выбрасывания, отлавливания и обработки исключений в Java. 
 
 ---
 
 ## practice_19
+>**Custom exceptions in Java**
+
+- **[individual_tax_number_validation](src/practice_17_24/practice_19)**
+> Клиент совершает покупку онлайн. При оформлении заказа у 
+> пользователя запрашивается фио и номер ИНН. В программе 
+> проверяется, действителен ли номер ИНН для такого клиента.
+> Исключение будет выдано в том случае, если введен недействительный ИНН.
 
 ---
 
 ## practice_20
+>**Generics in Java**
+
+- **[generic](src/practice_17_24/practice_20/Generic.java)**
+> Примеры использования дженериков в Java.
 
 ---
 
 ## practice_21
+>**Erasing types in Java**
+
+- **[](src/practice_17_24/practice_21)**
+> 
 
 ---
 

@@ -24,8 +24,8 @@ There are practices dedicated to learning java programming language.
 - [x] [practice_18](#practice_18 "Exceptions in Java")
 - [x] [practice_19](#practice_19 "Custom exceptions in Java")
 - [x] [practice_20](#practice_20 "Generics in Java")
-- [ ] [practice_21](#practice_21 "Erasing types in Java")
-- [ ] [practice_22](#practice_22 "Abstract data types: stack")
+- [x] [practice_21](#practice_21 "Types erasure in Java")
+- [x] [practice_22](#practice_22 "Abstract data types: stack")
 - [ ] [practice_23](#practice_23 "Abstract data types: queue")
 - [ ] [practice_24](#practice_24 "Design patterns. Generating patterns: abstract factory, factory method")
 ---
@@ -60,6 +60,7 @@ There are practices dedicated to learning java programming language.
 > работу метода.
 
 ---
+
 ## practice_2
 >**Object-oriented programming in Java language**
 
@@ -638,24 +639,50 @@ GridLayout, JButton, JFrame, JMenu, JMenuBar, JMenuItem, JPanel, JTextArea.
 ---
 
 ## practice_21
->**Erasing types in Java**
+>**Types erasure in Java**
 
-- **[](src/practice_17_24/practice_21)**
-> 
+> На самом деле компилятор проверяет соответствие типов на этапе компиляции, 
+> а при преобразовании в байт-код параметризованные типы стираются. Вместо 
+> формального и фактического типов в байт-коде хранятся только объекты типа Object, 
+> которые при возврате из метода приводятся к необходимому типу. При передаче 
+> параметризованного аргумента он также приводится к типу Object, который является 
+> super-классом для всех классов в Java. Это сделано для совместимости со старым кодом.
+
+- **[task_1](src/practice_17_24/practice_21/Task_1.java)**
+> Написать метод для конвертации массива строк/чисел в список.
+
+- **[task_2_3](src/practice_17_24/practice_21/task_2)**
+> Написать класс, который умеет хранить в себе массив любых типов данных 
+> (int, long etc.). Реализовать метод, который возвращает любой элемент 
+> массива по индексу.
+
+- **[task_4](src/practice_17_24/practice_21/Task_3.java)**
+> Написать функцию, которая сохранит содержимое каталога в список и выведет 
+> первые 5 элементов на экран.
 
 ---
 
 ## practice_22
+>**Abstract data types: stack**
+
+- **[RPNCalculator](src/practice_17_24/practice_22/RPNCalculator.java)**
+> Написать калькулятор для чисел с использованием RPN (Reverse Polish Notation 
+> в пер. на русский язык - обратной польской записи).
 
 ---
 
 ## practice_23
+>**Abstract data types: queue**
+
+- **[task_1](src/practice_17_24/practice_23)**
+> 
 
 ---
 
 ## practice_24
+>**Design patterns. Generating patterns: abstract factory, factory method**
+
+- **[task_1](src/practice_17_24/practice_24)**
+>
 
 ---
-
-
-

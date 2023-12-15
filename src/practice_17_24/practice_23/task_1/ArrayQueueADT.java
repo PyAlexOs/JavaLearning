@@ -7,7 +7,6 @@ public abstract class ArrayQueueADT {
     protected ArrayQueueModule tail;
     protected ArrayQueueModule[] modules;
 
-
     public ArrayQueueADT(int capacity) {
         if (capacity <= 0) {
             throw new IllegalArgumentException("Queue size must be greater than zero.");
@@ -18,7 +17,6 @@ public abstract class ArrayQueueADT {
         this.tail = null;
         this.modules = new ArrayQueueModule[this.capacity];
     }
-
 
     public abstract void enqueue(ArrayQueueModule newModule);
     public abstract ArrayQueueModule element();

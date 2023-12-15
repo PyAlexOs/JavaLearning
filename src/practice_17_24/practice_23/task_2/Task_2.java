@@ -1,9 +1,11 @@
-package practice_17_24.practice_23.task_1;
+package practice_17_24.practice_23.task_2;
 
-public class Task_1 {
+import practice_17_24.practice_23.task_1.ArrayQueue;
+
+public class Task_2 {
     public static void main(String[] args) {
         int[] toPush = {1, 5, 7, 3, 2, 8};
-        ArrayQueue queue = new ArrayQueue(5);
+        LinkedQueue queue = new LinkedQueue();
 
         System.out.println(queue.isEmpty() ? "Queue is empty" : "Queue isn't empty");
         for (int number : toPush){
@@ -19,10 +21,9 @@ public class Task_1 {
         System.out.println("Queue size: " + queue.size());
         System.out.println("Queue: " + queue);
 
-
         System.out.println("\nNew first element: " + queue.element().getValue());
         System.out.println("Clear queue");
         queue.clear();
-        System.out.println("\n" + (queue.isEmpty() ? "Queue is empty" : "Queue isn't empty"));
+        System.out.println(queue.isEmpty() ? "Queue is empty" : "Queue isn't empty");
     }
 }

@@ -1,5 +1,6 @@
 package practice_17_24.practice_22;
 
+import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Stack;
 
@@ -35,9 +36,12 @@ public class RPNCalculator {
                     }
                 }
             }
+            if (number.size() > 1){
+                throw new Exception("Extra number: " + number.pop());
+            }
             System.out.printf("Expression result: %.4f", number.pop());
         }
-        catch (Exception e){
+        catch (Exception e){ // 8 8 * 9 + 8
             System.out.println("Invalid reverse polish notation record. Broken at:");
             System.err.println(e.toString());
         }

@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f97b72b-b12b-45fe-8cc3-0b7e95e36a15" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_2/ArrayQueueModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_2/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_2/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_2/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/ChairAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/ChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/MagicalChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/MagicalChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/MultifunctionalChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/MultifunctionalChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/VictorianChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_1/VictorianChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/CreateDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/CreateImageDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/CreateMusicDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/CreateTextDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/ImageDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/MusicDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/TextDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice_17_24/practice_24/task_2/factory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_17_24/practice_22/RPNCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_17_24/practice_22/RPNCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_1/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_1/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_1/ArrayQueueADT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_1/ArrayQueueADT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_1/ArrayQueueModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_1/ArrayQueueModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice_17_24/practice_23/task_1/Task_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
